@@ -4,7 +4,7 @@
 
 This is the self-made tutorial for ParlAI.
 If you are curious and able to read KOREAN,
-try [my blog](https://blog.g40n.xyz/posts/2020-07-20-parlai-tutorial-2.html)
+try [my blog](https://blog.g40n.xyz/posts/2020-08-05-parlai-tutorial-2.html)
 
 ## Usage
 1. Clone [ParlAI](https://github.com/facebookresearch/ParlAI)
